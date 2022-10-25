@@ -12,6 +12,7 @@ And use this to send out abusive emails and phishing links impersonating you or 
 
 ## Assumptions
 * This list assumes you have blocked any attempt to accept short >3 character words and cleared the string of special characters and sepratarors.
-* You have the hability to transform this list into Array, Json or CSV format for use in your prefered language or database.
+* You have the ability to transform this list into Array, Json, CSV format or any of your prefered data structure.
 
-## Additionaly a list of swearwords and other unwanted expressions
+### Extras
+* Additionaly a list of swearwords and other unwanted expressions
